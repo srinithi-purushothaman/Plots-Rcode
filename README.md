@@ -7,4 +7,14 @@ Scripts to recreate the manuscript figures from the following publications
   
 2. **Benchmarking Illumina and Oxford Nanopore Technologies (ONT) sequencing platforms for whole genome sequencing of bacterial genomes and use in clinical microbiology.**
   [PMID: 41540427](https://link.springer.com/article/10.1186/s12920-025-02305-2)
+
+## Repository structure
+```
+Plots-Rcode/
+ ├── R/           # Scripts to generate figures
+ ├── figures/     # Output figures
+ ├── README.md
+ └── LICENSE
+```
+
   
