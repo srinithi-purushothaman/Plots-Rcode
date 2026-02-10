@@ -4,7 +4,8 @@ RScripts for the manuscript figures from the following publications
 ## Publications
 1. **Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection.**
    [PMID: 39604411](https://pmc.ncbi.nlm.nih.gov/articles/PMC11603047/)
-
+   
+   *Read and assembly quality*
    ![Read and Assembly quality](https://github.com/srinithi-purushothaman/Plots-Rcode/blob/main/figures/PMID_39604411/Figure3_Sequencing%20quality%20of%20different%20extraction%20kits%20and%20microbial%20communities.svg)
    
   
