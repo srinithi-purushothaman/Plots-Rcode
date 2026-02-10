@@ -1,3 +1,4 @@
+#RStudio(v4.3.0) is used to generate the figures
 #This script is to make the heat map with Mean Kraken counts for Taxa (Reads) and 
 #AMR heat map with gene length coverage from CARD (Assembly contigs and Reads)
 
