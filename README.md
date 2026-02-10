@@ -1,5 +1,5 @@
 # Plots-Rcode
-Scripts to recreate the manuscript figures from the following publications
+RScripts for the manuscript figures from the following publications
 
 ## Publications
 1. **Evaluation of DNA extraction kits for long-read shotgun metagenomics using Oxford Nanopore sequencing for rapid taxonomic and antimicrobial resistance detection.**
