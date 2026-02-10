@@ -11,10 +11,16 @@ Scripts to recreate the manuscript figures from the following publications
 ## Repository structure
 ```
 Plots-Rcode/
- ├── R/           # Scripts to generate figures
- ├── figures/     # Output figures
- ├── README.md
- └── LICENSE
+├── R/                       # Scripts to generate figures
+│   ├── PMID_39604411/
+│   └── PMID_41540427/
+│
+├── figures/                 # Output figures
+│   ├── PMID_39604411/
+│   └── PMID_41540427/
+│
+├── README.md
+└── LICENSE
 ```
 
   
