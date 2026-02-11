@@ -15,7 +15,7 @@ RScripts for the manuscript figures from the following publications
 3. **Benchmarking Illumina and Oxford Nanopore Technologies (ONT) sequencing platforms for whole genome sequencing of bacterial genomes and use in clinical microbiology.**
   [PMID: 41540427](https://link.springer.com/article/10.1186/s12920-025-02305-2)
 
-   *Bacterial WGS - isolates assembly quality*
+   *Bacterial WGS - isolates assembly quality across Illumina (Short-read) and ONT (Long-read) technologies.
    ![Assembly quality](https://github.com/srinithi-purushothaman/Plots-Rcode/blob/main/figures/PMID_41540427/Figure3a-d.svg)
 
    *cgMLST distances and Good target percentage from Ridom*
