@@ -18,7 +18,7 @@ RScripts for the manuscript figures from the following publications
    *Bacterial WGS - isolates assembly quality across Illumina (Short-read) and ONT (Long-read) technologies.
    ![Assembly quality](https://github.com/srinithi-purushothaman/Plots-Rcode/blob/main/figures/PMID_41540427/Figure3a-d.svg)
 
-   *cgMLST distances and Good target percentage from Ridom*
+   *cgMLST distances and Good target percentage from Ridom across different bacterial assemblies generaeted from Illumina and ONT*
    ![Allele distances](https://github.com/srinithi-purushothaman/Plots-Rcode/blob/main/figures/PMID_41540427/Figure5.svg)
 
 ## Repository structure
